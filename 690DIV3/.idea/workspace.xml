@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6473ec53-bcc9-4bc9-afd8-1e6108281363" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KickStartRoundA/1.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KickStartRoundA/1.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KickStartRoundA/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KickStartRoundA/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KickStartRoundA/B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KickStartRoundA/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KickStartRoundA/C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KickStartRoundA/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KickStartRoundA/D1.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mUpOz9g1K3cKaBQIZKypDOjGQI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.D">
+    <configuration name="A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="690DIV3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="690DIV3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="690DIV3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/C.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="D" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="690DIV3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.D" />
+        <item itemvalue="Python.C" />
+        <item itemvalue="Python.B" />
+        <item itemvalue="Python.A" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6473ec53-bcc9-4bc9-afd8-1e6108281363" name="Default Changelist" comment="" />
+      <created>1609557995236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609557995236</updated>
+      <workItem from="1609557996708" duration="5799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="208" key="GridCell.Tab.0.bottom" timestamp="1609566901889">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1609566901889" />
+    <state width="1237" height="208" key="GridCell.Tab.0.center" timestamp="1609566901889">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1609566901889" />
+    <state width="1237" height="208" key="GridCell.Tab.0.left" timestamp="1609566901889">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1609566901889" />
+    <state width="1237" height="208" key="GridCell.Tab.0.right" timestamp="1609566901889">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1609566901889" />
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1609566901889">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1609566901889" />
+    <state width="1237" height="208" key="GridCell.Tab.1.center" timestamp="1609566901889">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1609566901889" />
+    <state width="1237" height="208" key="GridCell.Tab.1.left" timestamp="1609566901889">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1609566901889" />
+    <state width="1237" height="208" key="GridCell.Tab.1.right" timestamp="1609566901889">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1609566901889" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1609558022961">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1609558022961" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1609562979834">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1609562979834" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/690DIV3$A.coverage" NAME="A Coverage Results" MODIFIED="1609558942943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/690DIV3$C.coverage" NAME="C Coverage Results" MODIFIED="1609561866275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/690DIV3$D.coverage" NAME="D Coverage Results" MODIFIED="1609563379930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/690DIV3$B.coverage" NAME="B Coverage Results" MODIFIED="1609559333960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
