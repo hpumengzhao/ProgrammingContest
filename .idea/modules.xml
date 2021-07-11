@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ABC208/A/A.iml" filepath="$PROJECT_DIR$/ABC208/A/A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CF1514A/A/A1.iml" filepath="$PROJECT_DIR$/CF1514A/A/A1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ABC208/B/B.iml" filepath="$PROJECT_DIR$/ABC208/B/B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CF1514A/B/B1.iml" filepath="$PROJECT_DIR$/CF1514A/B/B1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ABC208/C/C.iml" filepath="$PROJECT_DIR$/ABC208/C/C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LICENSE.iml" filepath="$PROJECT_DIR$/LICENSE.iml" />
+    </modules>
+  </component>
+</project>
