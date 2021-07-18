@@ -1,1 +1,2 @@
-# DFA以及个人的训练记录
+# 个人的算法竞赛记录
+cf&atcoder&leetcode....
